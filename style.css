@@ -1,0 +1,58 @@
+    body {
+        background-color: rgb(231, 236, 240);
+    }
+    
+    h2 {
+        text-align: center;
+    }
+    
+    .contaner {
+        margin: 0 auto;
+        display: grid;
+        width: 560px;
+        height: 555px;
+        background-color: #F0A35E;
+        padding: 20px;
+        border-radius: 20px;
+    }
+    
+    .grid {
+        background-color: white;
+    }
+    
+    .heder {
+        float: left;
+        margin: 0 auto;
+        width: 400px;
+        padding: 10px;
+        padding-left: 90px;
+    }
+    
+    .menu {
+        margin: 0 auto;
+        width: 70px;
+    }
+    
+    .menu button {
+        padding: 10px;
+        width: 70px;
+        color: white;
+        background-color: #F0A35E;
+    }
+    
+    .menu-a {
+        position: absolute;
+        top: 50px;
+        left: 180px;
+        list-style-type: none;
+        width: 200px;
+    }
+    
+    .menu-a li {
+        display: inline;
+        padding: 2px;
+    }
+    
+    .menu-a a {
+        text-decoration: none;
+    }
